@@ -1,5 +1,5 @@
 # HuaweiCamera
-Camera2Controller for android java
+Camera2Controller for android java.  [Download Sample APK](https://github.com/BlackGold-1989/HuaweiCamera/blob/main/screens/app-debug.apk "APK Link")
 
 ### Screens
 ![alt text](https://github.com/BlackGold-1989/HuaweiCamera/blob/main/screens/processed1.jpeg?raw=true)
